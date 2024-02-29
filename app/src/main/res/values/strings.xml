@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="all">All</string>
+    <string name="completed">Completed</string>
+    <string name="Update_todo">Update Todo</string>
+    <string name="Add_todo">Add Todo</string>
+    <string name="update_todo">Update</string>
+    <string name="add_todo">Add</string>
+</resources>
