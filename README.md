@@ -6,8 +6,9 @@
 ![Screenshot from 2024-02-29 17-00-27](https://github.com/enochrathod98/TodoApp-Compose/assets/29222281/472675c0-37d1-4fa0-aff8-1c642b363ccf)
 
     Add Screen
-![Screenshot from 2024-02-29 17-01-03](https://github.com/enochrathod98/TodoApp-Compose/assets/29222281/700fb259-2fb7-4cae-89f1-b85751c46ce0)
+![Screenshot from 2024-02-29 17-10-39](https://github.com/enochrathod98/TodoApp-Compose/assets/29222281/615beaba-e8ea-4f16-a9f1-8b2a333cedd7)
 
     Update Screen    
-![Screenshot from 2024-02-29 17-04-18](https://github.com/enochrathod98/TodoApp-Compose/assets/29222281/e63d59b5-4a29-40a6-8548-c092a0ce59a7)
+![Screenshot from 2024-02-29 17-11-20](https://github.com/enochrathod98/TodoApp-Compose/assets/29222281/e35f837d-6d47-464d-b792-05961d4f4075)
+
                                                          
